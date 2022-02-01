@@ -1,5 +1,5 @@
 {
-  "name": "firebaseui",
+  "name": "@muryoh/firebaseui",
   "version": "6.0.2",
   "description": "Javascript library for customizable UI on top of Firebase SDK",
   "files": [

@@ -2486,6 +2486,8 @@ firebase.auth.OAuthProvider.prototype.providerId;
  */
 firebase.auth.OAuthProvider.prototype.addScope = function (scope) {};
 
+firebase.auth.OAuthProvider.prototype.credentialFromJSON = function (json) {};
+
 /**
  * Sets the OAuth custom parameters to pass in an OAuth request for popup
  * and redirect sign-in operations.
