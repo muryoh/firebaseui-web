@@ -31,10 +31,7 @@
   "author": "Google",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/firebaseui-web.git"
-  },
-  "publishConfig": {
-    "registry": "https://wombat-dressing-room.appspot.com"
+    "url": "https://github.com/muryoh/firebaseui-web"
   },
   "license": "Apache-2.0",
   "devDependencies": {
